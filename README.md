@@ -26,11 +26,11 @@ Upload images to GitHub
 
 You can create the metadata badges using Shields.io which is a service for concise, consistent, and legible badges in SVG and raster format
 
--->
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/1986287?v=4" height="400px" width="1000px">
 </p>
+
+-->
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/igorgarin/">@igorgarin</a>
 
