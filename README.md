@@ -4,8 +4,6 @@
 
 <!--
 
-https://sargupta93.medium.com/how-to-build-stunning-github-profile-and-attract-recruiters-5310bde5889b
-
 **igor-garin/igor-garin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
