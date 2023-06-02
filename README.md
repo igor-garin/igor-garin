@@ -65,13 +65,21 @@ You can create the metadata badges using Shields.io which is a service for conci
 ### Platforms 👨‍
 <p>
 <a href="https://www.linkedin.com/in/igorgarin/">
-<img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
+<img src="https://img.shields.io/badge/LinkedIn-igorgarin-blue">
 <!-- <a href="https://www.kaggle.com/sargupta">
 <img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
 <a href="https://medium.com/@sargupta93">
 <img src="https://img.shields.io/badge/Medium-sargupta-blue">
-<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
-<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
+<a href="https://stackoverflow.com/users/9658895/?tab=profile">
+<img src="https://img.shields.io/badge/Stack%20Overflow-
+
+
+
+
+
+
+
+-blue">
 -->
 </a>
 </p>
